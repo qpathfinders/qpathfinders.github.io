@@ -81,7 +81,15 @@ body { font-size:14px; }
 <link rel='shortlink' href='http://localhost/?p=12' />
 <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="http://localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fpublications%2F" />
 <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="http://localhost/wp-json/oembed/1.0/embed?url=http%3A%2F%2Flocalhost%2Fpublications%2F&#038;format=xml" />
-<!-- Analytics by WP Statistics - https://wp-statistics.com -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-RPL4B9VWT3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-RPL4B9VWT3');
+</script>
 <link rel="icon" href="http://localhost/wp-content/uploads/2020/10/cropped-favicon-1-32x32.png" sizes="32x32" />
 <link rel="icon" href="http://localhost/wp-content/uploads/2020/10/cropped-favicon-1-192x192.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="http://localhost/wp-content/uploads/2020/10/cropped-favicon-1-180x180.png" />
@@ -474,12 +482,6 @@ body { font-size:14px; }
 <!--[if lt IE 9]>
 <script type="text/javascript" src="http://localhost/wp-content/themes/astrid/js/html5shiv.js?ver=6.8.3" id="astrid-html5shiv-js"></script>
 <![endif]-->
-<script type="text/javascript" id="wp-statistics-tracker-js-extra">
-/* <![CDATA[ */
-var WP_Statistics_Tracker_Object = {"requestUrl":"http:\/\/localhost\/wp-json\/wp-statistics\/v2","ajaxUrl":"http:\/\/localhost\/wp-admin\/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"page","source_id":12,"search_query":"","signature":"65c7e8645efb2121aa4f0fb6de0b9383","endpoint":"hit"},"onlineParams":{"wp_statistics_hit":1,"source_type":"page","source_id":12,"search_query":"","signature":"65c7e8645efb2121aa4f0fb6de0b9383","endpoint":"online"},"option":{"userOnline":"1","dntEnabled":"","bypassAdBlockers":"","consentIntegration":{"name":null,"status":[]},"isPreview":false,"trackAnonymously":false,"isWpConsentApiActive":false,"consentLevel":"functional"},"jsCheckTime":"60000","isLegacyEventLoaded":"","customEventAjaxUrl":"http:\/\/localhost\/wp-admin\/admin-ajax.php?action=wp_statistics_custom_event&nonce=c5e2d2338a"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://localhost/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.15.5" id="wp-statistics-tracker-js"></script>
 
 </body>
 </html>
