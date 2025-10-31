@@ -204,11 +204,11 @@ body { font-size:14px; }
 
 	<div class="entry-content">
 		
-<p>Our group is concerned with research in quantum theory, information theory and the interplay between these fields. We explore applied and fundamental questions related to the certification, the quantification and development of resources for quantum technologies. More on <a href="https://quantum.paris/research/">the research section</a>. <br>We are based in the <a href="https://www.ipht.fr">Institut de Physique Théorique</a> (<a href="https:/www./cea.fr">CEA</a>/<a href="https://www.cnrs.fr">CNRS</a>/<a href="https://www.universite-paris-saclay.fr">Univeristé Paris-Saclay</a>).</p>
+<p>Our group is concerned with research in quantum theory, information theory and the interplay between these fields. We explore applied and fundamental questions related to the certification, the quantification and development of resources for quantum technologies. More on <a href="https://qpathfinders.github.io/research/">the research section</a>. <br>We are based in the <a href="https://www.ipht.fr">Institut de Physique Théorique</a> (<a href="https:/www./cea.fr">CEA</a>/<a href="https://www.cnrs.fr">CNRS</a>/<a href="https://www.universite-paris-saclay.fr">Univeristé Paris-Saclay</a>).</p>
 
 
 
-<p>For related research, visit our colleagues at <a href="http://quantum.paris">http://quantum.paris</a>.</p>
+<p>For related research, visit our colleagues at <a href="http://quantum.paris"><strong>http://quantum.paris</strong></a>.</p>
 
 
 
@@ -216,7 +216,7 @@ body { font-size:14px; }
 
 
 
-<p>If you are interested in joining our group as a master&#8217;s student, PhD student, or postdoctoral scholar, do not hesitate to contact <a href="mailto:jdbancal.physics@gmail.com">Jean-Daniel Bancal</a>. Positions open up from time to time on all of our projects.</p>
+<p>If you are interested in joining our group as a master&#8217;s student, PhD student, or postdoctoral scholar, do not hesitate to contact <a href="mailto:jdbancal.physics@gmail.com">Jean-Daniel Bancal</a>.&nbsp;Positions open up from time to time on all of our projects.</p>
 
 
 
@@ -398,7 +398,7 @@ generalization of Bell nonlocality to networks, we set out to examine with colle
 				
 						<div class="footer-info">
 			<div class="container">
-				<div class="footer-branding"><div class="logo-column"><div class="logo-consortium"><a href="http://scinet-project.uibk.ac.at/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2020/03/scinet_white.png" alt="Sci-Net"/></a></div><div class="logo-consortium"><a href="http://www.sirteq.org/equipes/theorie-de-linformation-quantique-qit/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2020/03/sirteq.png" alt="SIRTEQ"/></a></div><div class="logo-consortium"><a href="http://quantum-internet.team/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2020/03/QIA.png" alt="Quantum Internet Alliance"/></a></div></div><div class="logo-column"><div class="logo-consortium"><a href="https://www.universite-paris-saclay.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/UPS.png" alt="Université Paris Saclay"/></a></div><div class="logo-consortium"><a href="https://www.cnrs.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/cnrs.png" alt="CNRS"/></a></div><div class="logo-consortium"><a href="https://www.ipht.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/ipht.jpeg" alt="Institut de Physique Théorique"/></a></div></div></div>				<div class="footer-contact"><div class="footer-contact-block"><i class="fa fa-home"></i><span> Institut de Physique Théorique,</br> Orme des Merisiers, bâtiment 774,</br> Point courrier 136 CEA/DSM/IPhT,</br> CEA/Saclay F-91191 Gif-sur-Yvette Cedex </span></div></div>			</div>
+				<div class="footer-branding"><div class="logo-consortium"><a href="https://www.universite-paris-saclay.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/UPS.png" alt="Université Paris Saclay"/></a></div><div class="logo-consortium"><a href="https://www.cnrs.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/cnrs.png" alt="CNRS"/></a></div><div class="logo-consortium"><a href="https://www.ipht.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/ipht.jpeg" alt="Institut de Physique Théorique"/></a></div></div>				<div class="footer-contact"><div class="footer-contact-block"><i class="fa fa-home"></i><span> Institut de Physique Théorique,</br> Orme des Merisiers, bâtiment 774,</br> Point courrier 136 CEA/DSM/IPhT,</br> CEA/Saclay F-91191 Gif-sur-Yvette Cedex </span></div></div>			</div>
 		</div>
 		
 		<footer id="colophon" class="site-footer" role="contentinfo">	
@@ -430,7 +430,7 @@ generalization of Bell nonlocality to networks, we set out to examine with colle
 <![endif]-->
 <script type="text/javascript" id="wp-statistics-tracker-js-extra">
 /* <![CDATA[ */
-var WP_Statistics_Tracker_Object = {"requestUrl":"http:\/\/localhost\/wp-json\/wp-statistics\/v2","ajaxUrl":"http:\/\/localhost\/wp-admin\/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"home","source_id":16,"search_query":"","signature":"4083dcd4ce2ff7b2503f3faeb39aa141","endpoint":"hit"},"onlineParams":{"wp_statistics_hit":1,"source_type":"home","source_id":16,"search_query":"","signature":"4083dcd4ce2ff7b2503f3faeb39aa141","endpoint":"online"},"option":{"userOnline":"1","dntEnabled":"","bypassAdBlockers":"","consentIntegration":{"name":null,"status":[]},"isPreview":false,"trackAnonymously":false,"isWpConsentApiActive":false,"consentLevel":"functional"},"jsCheckTime":"60000","isLegacyEventLoaded":"","customEventAjaxUrl":"http:\/\/localhost\/wp-admin\/admin-ajax.php?action=wp_statistics_custom_event&nonce=63d4bc53da"};
+var WP_Statistics_Tracker_Object = {"requestUrl":"http:\/\/localhost\/wp-json\/wp-statistics\/v2","ajaxUrl":"http:\/\/localhost\/wp-admin\/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"home","source_id":16,"search_query":"","signature":"4083dcd4ce2ff7b2503f3faeb39aa141","endpoint":"hit"},"onlineParams":{"wp_statistics_hit":1,"source_type":"home","source_id":16,"search_query":"","signature":"4083dcd4ce2ff7b2503f3faeb39aa141","endpoint":"online"},"option":{"userOnline":"1","dntEnabled":"","bypassAdBlockers":"","consentIntegration":{"name":null,"status":[]},"isPreview":false,"trackAnonymously":false,"isWpConsentApiActive":false,"consentLevel":"functional"},"jsCheckTime":"60000","isLegacyEventLoaded":"","customEventAjaxUrl":"http:\/\/localhost\/wp-admin\/admin-ajax.php?action=wp_statistics_custom_event&nonce=c5e2d2338a"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://localhost/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.15.5" id="wp-statistics-tracker-js"></script>

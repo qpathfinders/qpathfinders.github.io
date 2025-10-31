@@ -201,7 +201,7 @@ body { font-size:14px; }
 
 
 
-<p>Characterization of the quantum correlations set:</p>
+<p><strong>Characterization of the quantum correlations set</strong>:</p>
 
 
 
@@ -214,12 +214,26 @@ body { font-size:14px; }
 
 
 
-<li><a href="https://www.newscientist.com/article/2473739-we-may-have-found-the-edge-of-quantum-theory-whats-beyond-it/">We may have found the edge of quantum theory – what’s beyond it?</a> New Scientist (2005)</li>
+<li><a href="https://www.newscientist.com/article/2473739-we-may-have-found-the-edge-of-quantum-theory-whats-beyond-it/">We may have found the edge of quantum theory – what’s beyond it?</a> New Scientist (2025)</li>
 </ul>
 
 
 
-<p>Devce-independent quantum key distribution:</p>
+<p><strong>Loophole-free Bell test with superconducting circuits</strong>:</p>
+
+
+
+<ul class="wp-block-list">
+<li><a href="https://phys.org/news/2023-05-entangled-quantum-circuits-einstein-concept.html">Entangled quantum circuits further disprove Einstein&#8217;s concept of local causality</a>, Phys.org (2023)</li>
+
+
+
+<li><a href="https://www.newscientist.com/article/2372828-superconducting-qubits-have-passed-a-key-quantum-test/">Superconducting qubits have passed a key quantum test</a>, New Scientist (2023)</li>
+</ul>
+
+
+
+<p><strong>Device-independent quantum key distribution</strong>:</p>
 
 
 
@@ -241,7 +255,7 @@ body { font-size:14px; }
 
 
 
-<p>Adding noise for completely secure communication:</p>
+<p><strong>Adding noise for completely secure communication</strong>:</p>
 
 
 
@@ -263,29 +277,7 @@ body { font-size:14px; }
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<h3 class="wp-block-heading has-text-align-center">Outreach / Vulgarisation</h3>
-
-
-
-<ul class="wp-block-list">
-<li>Comprendre la distribution quantique de clé pour des communications sûres, <a href="https://www.photoniques.com/articles/photon/abs/2025/01/photon2025130p55/photon2025130p55.html">Photoniques (2025)</a> (fr)</li>
-</ul>
-
-
-
-<hr class="wp-block-separator has-css-opacity"/>
-
-
-
-<h3 class="wp-block-heading has-text-align-center">Further highlights</h3>
-
-
-
-<p>How to certify a quantum computer</p>
+<p><strong>How to certify a quantum computer</strong>:</p>
 
 
 
@@ -299,11 +291,17 @@ body { font-size:14px; }
 
 
 
-<hr class="wp-block-separator has-css-opacity"/>
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
 
-<p></p>
+<h3 class="wp-block-heading has-text-align-center">Outreach / Vulgarisation</h3>
+
+
+
+<ul class="wp-block-list">
+<li>Comprendre la distribution quantique de clé pour des communications sûres, <a href="https://www.photoniques.com/articles/photon/abs/2025/01/photon2025130p55/photon2025130p55.html">Photoniques (2025)</a> (fr)</li>
+</ul>
 	</div><!-- .entry-content -->
 
 	<footer class="entry-footer">
@@ -324,7 +322,7 @@ body { font-size:14px; }
 				
 						<div class="footer-info">
 			<div class="container">
-				<div class="footer-branding"><div class="logo-column"><div class="logo-consortium"><a href="http://scinet-project.uibk.ac.at/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2020/03/scinet_white.png" alt="Sci-Net"/></a></div><div class="logo-consortium"><a href="http://www.sirteq.org/equipes/theorie-de-linformation-quantique-qit/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2020/03/sirteq.png" alt="SIRTEQ"/></a></div><div class="logo-consortium"><a href="http://quantum-internet.team/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2020/03/QIA.png" alt="Quantum Internet Alliance"/></a></div></div><div class="logo-column"><div class="logo-consortium"><a href="https://www.universite-paris-saclay.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/UPS.png" alt="Université Paris Saclay"/></a></div><div class="logo-consortium"><a href="https://www.cnrs.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/cnrs.png" alt="CNRS"/></a></div><div class="logo-consortium"><a href="https://www.ipht.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/ipht.jpeg" alt="Institut de Physique Théorique"/></a></div></div></div>				<div class="footer-contact"><div class="footer-contact-block"><i class="fa fa-home"></i><span> Institut de Physique Théorique,</br> Orme des Merisiers, bâtiment 774,</br> Point courrier 136 CEA/DSM/IPhT,</br> CEA/Saclay F-91191 Gif-sur-Yvette Cedex </span></div></div>			</div>
+				<div class="footer-branding"><div class="logo-consortium"><a href="https://www.universite-paris-saclay.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/UPS.png" alt="Université Paris Saclay"/></a></div><div class="logo-consortium"><a href="https://www.cnrs.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/cnrs.png" alt="CNRS"/></a></div><div class="logo-consortium"><a href="https://www.ipht.fr/"><img class="footer-logo" src="https://quantum.paris/wp-content/uploads/2021/01/ipht.jpeg" alt="Institut de Physique Théorique"/></a></div></div>				<div class="footer-contact"><div class="footer-contact-block"><i class="fa fa-home"></i><span> Institut de Physique Théorique,</br> Orme des Merisiers, bâtiment 774,</br> Point courrier 136 CEA/DSM/IPhT,</br> CEA/Saclay F-91191 Gif-sur-Yvette Cedex </span></div></div>			</div>
 		</div>
 		
 		<footer id="colophon" class="site-footer" role="contentinfo">	
@@ -356,7 +354,7 @@ body { font-size:14px; }
 <![endif]-->
 <script type="text/javascript" id="wp-statistics-tracker-js-extra">
 /* <![CDATA[ */
-var WP_Statistics_Tracker_Object = {"requestUrl":"http:\/\/localhost\/wp-json\/wp-statistics\/v2","ajaxUrl":"http:\/\/localhost\/wp-admin\/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"page","source_id":229,"search_query":"","signature":"780c933d8423a3abe384f0b0497ef114","endpoint":"hit"},"onlineParams":{"wp_statistics_hit":1,"source_type":"page","source_id":229,"search_query":"","signature":"780c933d8423a3abe384f0b0497ef114","endpoint":"online"},"option":{"userOnline":"1","dntEnabled":"","bypassAdBlockers":"","consentIntegration":{"name":null,"status":[]},"isPreview":false,"trackAnonymously":false,"isWpConsentApiActive":false,"consentLevel":"functional"},"jsCheckTime":"60000","isLegacyEventLoaded":"","customEventAjaxUrl":"http:\/\/localhost\/wp-admin\/admin-ajax.php?action=wp_statistics_custom_event&nonce=63d4bc53da"};
+var WP_Statistics_Tracker_Object = {"requestUrl":"http:\/\/localhost\/wp-json\/wp-statistics\/v2","ajaxUrl":"http:\/\/localhost\/wp-admin\/admin-ajax.php","hitParams":{"wp_statistics_hit":1,"source_type":"page","source_id":229,"search_query":"","signature":"780c933d8423a3abe384f0b0497ef114","endpoint":"hit"},"onlineParams":{"wp_statistics_hit":1,"source_type":"page","source_id":229,"search_query":"","signature":"780c933d8423a3abe384f0b0497ef114","endpoint":"online"},"option":{"userOnline":"1","dntEnabled":"","bypassAdBlockers":"","consentIntegration":{"name":null,"status":[]},"isPreview":false,"trackAnonymously":false,"isWpConsentApiActive":false,"consentLevel":"functional"},"jsCheckTime":"60000","isLegacyEventLoaded":"","customEventAjaxUrl":"http:\/\/localhost\/wp-admin\/admin-ajax.php?action=wp_statistics_custom_event&nonce=c5e2d2338a"};
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://localhost/wp-content/plugins/wp-statistics/assets/js/tracker.js?ver=14.15.5" id="wp-statistics-tracker-js"></script>
